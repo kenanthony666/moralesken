@@ -1,0 +1,41 @@
+
+body{ background-image: linear-gradient(to right top, #ea80fc, #e771fc, #e361fb, #df4ffb, #db3afa, #d62dfa, #d11efb, #cb00fb, #c300fc, #bb00fd, #b300fe, #aa00ff);
+        
+}
+
+p{
+        font-size:20px;
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+    }
+
+.image1 {
+    width: 200px;
+    height: 300px;
+
+}
+.card-image {
+    color: black;
+}
+.image2 {
+    width: 300px;
+    height: 200px;
+}
+.image3 {
+    width: 300px;
+    height: 200px;
+}
+.yoo{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.image4 {
+    width: 300px;
+    height: 200px;
+}
+.image5 {
+    width: 300px;
+    height: 200px;
+}
